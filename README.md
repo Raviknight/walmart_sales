@@ -6,8 +6,8 @@ This project analyzes Walmart Sales from February 5th, 2010 to November 1st, 201
 1. Project Proposal
 2. [Data Wrangling](https://github.com/nphan20181/walmart_sales/blob/master/walmart_data_wrangling.ipynb)
 3. Exploratory Data Analysis
-   - Descriptive Statistics
-   - Time Series
+   - Part 1: [General Statistics & Correlations](https://github.com/nphan20181/walmart_sales/blob/master/walmart_eda1.ipynb)
+   - Part 2: [Time Series Analysis](https://github.com/nphan20181/walmart_sales/blob/master/walmart_eda2.ipynb)
 4. Forecast Model
 5. Report
 6. Powerpoint Presentation
