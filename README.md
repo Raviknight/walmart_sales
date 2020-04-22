@@ -3,7 +3,7 @@ Walmart’s sales datasets are collected on Kaggle website at https://www.kaggle
 
 This project analyzes Walmart Sales from February 5th, 2010 to November 1st, 2012 and develop time series model to forecast sales.
 
-1. [Data Wrangling](https://github.com/nphan20181/walmart_sales/blob/master/walmart_data_wrangling.ipynb)
+1. [Data Wrangling](https://github.com/nphan20181/walmart_sales/blob/master/00_walmart_data_wrangling.ipynb)
 2. Exploratory Data Analysis
    - Part 1: [General Statistics & Correlations](https://github.com/nphan20181/walmart_sales/blob/master/walmart_eda1.ipynb)
    - Part 2: [Time Series Analysis](https://github.com/nphan20181/walmart_sales/blob/master/walmart_eda2.ipynb)
