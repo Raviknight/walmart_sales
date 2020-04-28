@@ -9,5 +9,5 @@ This project analyzes Walmart Sales from February 5th, 2010 to November 1st, 201
 3. [Sales Forecast Models](https://github.com/nphan20181/walmart_sales/blob/master/03_walmart_models.ipynb)
 4. [Milestone Report](https://github.com/nphan20181/walmart_sales/blob/master/walmart_milestone_report.pdf)
 5. Final Report
-6. Powerpoint Presentation
+6. [Powerpoint Presentation](https://github.com/nphan20181/walmart_sales/blob/master/walmart_presentation.pdf)
 7. Blog
