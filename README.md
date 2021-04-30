@@ -7,6 +7,5 @@ This project analyzes Walmart Sales from February 5th, 2010 to November 1st, 201
 2. [Exploratory Data Analysis](https://github.com/nphan20181/walmart_sales/blob/master/01_walmart_eda.ipynb)
 3. [Time Series Analysis](https://github.com/nphan20181/walmart_sales/blob/master/02_walmart_time_series_analysis.ipynb)
 4. [Sales Forecast Models](https://github.com/nphan20181/walmart_sales/blob/master/03_walmart_models.ipynb)
-5. [Final Report](https://github.com/nphan20181/walmart_sales/blob/master/walmart_presentation.pdf)
+5. [Project Report](https://github.com/nphan20181/walmart_sales/blob/master/walmart_report.pdf)
 6. [Powerpoint Presentation](https://github.com/nphan20181/walmart_sales/blob/master/walmart_presentation.pdf)
-7. [Blog](https://medium.com/@nphan20181/analysis-of-walmarts-sales-and-sales-forecast-4ff89459e7a7)
